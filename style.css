@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina&display=swap');
+
+body{
+    font-family: 'Texturina', serif;
+    background-image: url(./background.jpg); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 100%; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100%; /* Resize the background image to cover the entire container */
+} 
+
+.pho{
+    max-width: 60%!important;
+    max-height: 60%!important;
+}
